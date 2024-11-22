@@ -16,8 +16,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		spaceBetween: 20,
 		pagination: {
 			el: '.revievs__dots',
-			bulletActiveClass: '.revievs__dot-active',
-			bulletClass: '.revievs__dot',
+			bulletActiveClass: 'revievs__dot-active',
+			bulletClass: 'revievs__dot',
 			clickable: true
 		},
 
